@@ -1,12 +1,8 @@
-
->本项目脚本都是基于自动化测试库 [uiautomator2](https://github.com/openatx/uiautomator2) 编写
-。
-
 # spike
 京东、淘宝、小米商城等一系列的秒杀脚本。
 
-# mobile_weibo
-手机微博自动顶帖工具
+>秒杀脚本是基于自动化测试库 [uiautomator2] (https://github.com/openatx/uiautomator2) 编写
+。
 
 #### 本文需要使用到的库或三方工具：
 
