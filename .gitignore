@@ -6,7 +6,7 @@
 *.pyc
 
 # 安全信息
-*secrecy.py
+mobile_weibo/secrecy.py
 
 *.py[cod]
 
